@@ -35,7 +35,7 @@ $(function(){
         main(json);
     }).fail(function () {
         // 失敗
-        alert("エラーが発生しました　再読み込みを行います")
-        location.href = './';
+        //alert("エラーが発生しました　再読み込みを行います")
+        //location.href = './';
     })
 });

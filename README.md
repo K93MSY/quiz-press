@@ -2,7 +2,12 @@
 簡単にクイズが作れるHTML&amp;Javascript ベースのアプリ
 
 ## 動かし方
-index.htmlを実行することで動かすことができる
+#### pythonがパソコンにインストールされている人
+1.index.pyを実行する
+2.http://localhost:8000/press/ にアクセスする
+#### nodejsがパソコンにインストールされている人
+1.nodejs.batを実行する
+2.http://localhost:8000/ にアクセスする
 
 ## 問題のつくり方
 questフォルダーの中にあるexample.jsonを編集することで動かすことができます
