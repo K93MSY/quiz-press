@@ -1,0 +1,7 @@
+{
+    "quests":[
+        {"q":"系 系統 体系","ans":"system"},
+        {"q":"他","ans":"other"},
+        {"q":"技術者","ans":"engineer"}
+    ]
+}
