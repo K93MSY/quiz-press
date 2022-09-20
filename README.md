@@ -6,11 +6,11 @@
 1.index.pyを実行する
 2.http://localhost:8000/press/ にアクセスする
 #### nodejsがパソコンにインストールされている人
-1.コマンドプロンプト　又は　PowerShellを開く
-2.cdでこのディレクトリに移動する
-3.`npm i express`
-4.`node index.js`
-5.http://localhost:8000/ にアクセスする
+1.コマンドプロンプト　又は　PowerShellを開く  
+2.cdでこのディレクトリに移動する  
+3.`npm i express`  
+4.`node index.js`  
+5.http://localhost:8000/ にアクセスする  
 
 ## 問題のつくり方
 questフォルダーの中にあるexample.jsonを編集することで動かすことができます
