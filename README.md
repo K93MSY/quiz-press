@@ -11,13 +11,13 @@ assetsフォルダーの中のquizpress.jsの中の`$.getJSON("./quest/example.j
 
 ### 問題のサンプル
 `
-{
-    "quests":[
-        {"q":"系 系統 体系","ans":"system"},
-        {"q":"他","ans":"other"},
-        {"q":"技術者","ans":"engineer"}
-    ]
-}
+{  
+    "quests":[  
+        {"q":"系 系統 体系","ans":"system"},  
+        {"q":"他","ans":"other"},  
+        {"q":"技術者","ans":"engineer"}  
+    ]  
+}  
 `
 - q 問題
 - ans 回答
