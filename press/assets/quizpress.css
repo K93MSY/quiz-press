@@ -1,9 +1,15 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url(./Roboto-Medium.ttf);
+}
 html{
     overflow: hidden;
 }
 body{
     overflow: hidden;
     background: #ffc;
+    font-family: 'Roboto';
+    font-weight: 500;
 }
 button{
     border: none;
@@ -79,7 +85,11 @@ input[type=text]{
     width: 700px;
     text-align: center;
 }
-.問題 a{
+#mondai{
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
     position: absolute;
     top: 20px;
     font-size: 20px;
