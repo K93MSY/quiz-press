@@ -2,6 +2,8 @@
 簡単にクイズが作れるHTML&amp;Javascript ベースのアプリ
 
 ## 動かし方
+#### サンプル  
+https://k93msy.github.io/quiz-press/press/
 #### pythonがパソコンにインストールされている人
 1.index.pyを実行する
 2.http://localhost:8000/press/ にアクセスする
